@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-28T17:03:28Z" name="Default suite" finished-at="2022-07-28T17:03:29Z" duration-ms="803">
+    <groups>
+    </groups>
+    <test started-at="2022-07-28T17:03:28Z" name="Default test" finished-at="2022-07-28T17:03:29Z" duration-ms="803">
+      <class name="com.bhanu.testScripts.login.LoginTestRND">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.bhanu.testScripts.login.LoginTestRND@4ed5eb72]" started-at="2022-07-28T22:33:28Z" name="beforeClass" finished-at="2022-07-28T22:33:28Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="loginTest1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bhanu.testScripts.login.LoginTestRND@4ed5eb72]" started-at="2022-07-28T22:33:29Z" name="loginTest1" data-provider="testData" finished-at="2022-07-28T22:33:29Z" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bhanu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pratap]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest1 -->
+        <test-method signature="loginTest1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bhanu.testScripts.login.LoginTestRND@4ed5eb72]" started-at="2022-07-28T22:33:29Z" name="loginTest1" data-provider="testData" finished-at="2022-07-28T22:33:29Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bhanu1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pratap1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest1 -->
+        <test-method signature="loginTest1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bhanu.testScripts.login.LoginTestRND@4ed5eb72]" started-at="2022-07-28T22:33:29Z" name="loginTest1" data-provider="testData" finished-at="2022-07-28T22:33:29Z" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bhanu2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pratap2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest1 -->
+        <test-method signature="loginTest1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bhanu.testScripts.login.LoginTestRND@4ed5eb72]" started-at="2022-07-28T22:33:29Z" name="loginTest1" data-provider="testData" finished-at="2022-07-28T22:33:29Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bhanu3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pratap3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest1 -->
+      </class> <!-- com.bhanu.testScripts.login.LoginTestRND -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
